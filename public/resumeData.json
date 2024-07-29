@@ -26,6 +26,11 @@
         "name": "github",
         "url": "https://github.com/basuabhirup",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://x.com/basu_abhirup27",
+        "className": "fa fa-twitter"
       }
     ]
   },
@@ -101,13 +106,13 @@
       {
         "title": "Botgo AI Chatbot Platform",
         "category": "AI-powered chatbot",
-        "image": "botgo.jpg",
+        "image": "botgo.png",
         "url": "https://botgo.io/"
       },
       {
         "title": "News AI Newsletter Application",
         "category": "AI-powered newsletter",
-        "image": "newsai.jpg",
+        "image": "newsai.png",
         "url": "https://www.newsai.me/"
       }
     ]
